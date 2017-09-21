@@ -1,2 +1,4 @@
+#include "config.h"
+#include "boards.h"
 #include "debug.h"
-#include "general.h"
+#include "globalVars.h"
